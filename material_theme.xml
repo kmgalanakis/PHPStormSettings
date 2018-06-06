@@ -4,7 +4,9 @@
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="accentColor" value="ab47bc" />
     <option name="compactSidebar" value="true" />
+    <option name="tabsHeight" value="50" />
     <option name="isCompactStatusBar" value="true" />
+    <option name="darkTitleBar" value="true" />
     <option name="compactDropdowns" value="true" />
   </component>
 </application>
