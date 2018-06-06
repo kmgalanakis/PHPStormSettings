@@ -1,0 +1,10 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="version" value="2.2.3.1" />
+    <option name="selectedTheme" value="ONE_DARK" />
+    <option name="accentColor" value="ab47bc" />
+    <option name="compactSidebar" value="true" />
+    <option name="isCompactStatusBar" value="true" />
+    <option name="compactDropdowns" value="true" />
+  </component>
+</application>
