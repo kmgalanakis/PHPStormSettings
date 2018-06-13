@@ -1,9 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="url-input-all" type="JSX Harmony" />
-      <mapping pattern="test" type="PHP" />
-      <mapping pattern="content-template-edit-page-help" type="Twig" />
-    </extensionMap>
-  </component>
-</application>
