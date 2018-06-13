@@ -4,37 +4,9 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
-  <action id="Annotate">
-    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
-  </action>
   <action id="Console.TableResult.DeleteRows" />
-  <action id="Diff.NextChange" />
-  <action id="Diff.PrevChange" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
-  <action id="EditorLineEnd">
-    <keyboard-shortcut first-keystroke="end" />
-    <keyboard-shortcut first-keystroke="alt right" />
-  </action>
-  <action id="EditorLineEndWithSelection">
-    <keyboard-shortcut first-keystroke="shift end" />
-    <keyboard-shortcut first-keystroke="shift alt right" />
-  </action>
-  <action id="EditorLineStart">
-    <keyboard-shortcut first-keystroke="home" />
-    <keyboard-shortcut first-keystroke="alt left" />
-  </action>
-  <action id="EditorLineStartWithSelection">
-    <keyboard-shortcut first-keystroke="shift home" />
-    <keyboard-shortcut first-keystroke="shift alt left" />
-  </action>
-  <action id="NextEditorTab" />
-  <action id="NextTab" />
-  <action id="PreviousEditorTab" />
-  <action id="PreviousTab" />
-  <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
-  </action>
 </keymap>
