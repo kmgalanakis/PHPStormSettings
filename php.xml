@@ -432,7 +432,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="bb3f5d88-93b6-4da0-b88b-2bd6ee5e06a2" load_method="CUSTOM_LOADER" custom_loader_path="/srv/www/otgs1/public_html/wp-content/plugins/wp-views/vendor/autoload.php" phpunit_phar_path="" />
+      <phpunit_by_interpreter interpreter_id="bb3f5d88-93b6-4da0-b88b-2bd6ee5e06a2" load_method="CUSTOM_LOADER" custom_loader_path="/srv/www/otgs2/public_html/wp-content/plugins/wp-views/vendor/autoload.php" phpunit_phar_path="" />
     </phpunit_settings>
   </component>
 </application>
