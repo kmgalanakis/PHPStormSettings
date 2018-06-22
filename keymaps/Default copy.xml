@@ -5,6 +5,9 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="Console.TableResult.DeleteRows" />
+  <action id="ConvertIndentsToTabs">
+    <keyboard-shortcut first-keystroke="alt i" second-keystroke="t" />
+  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
