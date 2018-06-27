@@ -2,8 +2,7 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings>
       <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;Zend" tool_path="D:\OTGS\phpcs\phpcs.bat" />
-      <phpcs_by_interpreter interpreter_id="93f7a26d-a9a4-4c33-9567-5bccfb3f1255" standards="MySource;PEAR;PSR1;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;Zend" tool_path="/usr/local/bin/phpcs" />
-      <phpcs_by_interpreter interpreter_id="bb3f5d88-93b6-4da0-b88b-2bd6ee5e06a2" max_messages_per_file="100" standards="MySource;PEAR;PSR1;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;Zend" timeout="30000" tool_path="/usr/local/bin/phpcs " />
+      <phpcs_by_interpreter interpreter_id="93f7a26d-a9a4-4c33-9567-5bccfb3f1255" max_messages_per_file="100" standards="MySource;PEAR;PHPCompatibility;PSR1;PSR12;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;WordPress-VIP-Go;WordPressVIPMinimum;Zend" timeout="30000" tool_path="/usr/local/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
