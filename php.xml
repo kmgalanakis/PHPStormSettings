@@ -1,20 +1,24 @@
 <application>
+  <component name="MessDetector">
+    <phpmd_settings_migrated />
+  </component>
   <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
     <phpcs_settings>
-      <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;Zend" tool_path="D:\OTGS\phpcs\phpcs.bat" />
-      <phpcs_by_interpreter interpreter_id="bb3f5d88-93b6-4da0-b88b-2bd6ee5e06a2" max_messages_per_file="100" standards="MySource;PEAR;PSR1;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;Zend" timeout="30000" tool_path="/usr/local/bin/phpcs" />
+      <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;Zend" tool_path="D:/OTGS/phpcs/phpcs" />
+      <phpcs_by_interpreter interpreter_id="93f7a26d-a9a4-4c33-9567-5bccfb3f1255" max_messages_per_file="100" standards="MySource;PEAR;PHPCompatibility;PSR1;PSR12;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;WordPress-VIP-Go;WordPressVIPMinimum;Zend" tool_path="/usr/local/bin/phpcs" timeout="30000" />
     </phpcs_settings>
   </component>
   <component name="PhpInterpreters">
     <interpreters>
-      <interpreter home="vagrant://D:/OTGS/vagrant-local/usr/bin/php" id="bb3f5d88-93b6-4da0-b88b-2bd6ee5e06a2" name="Remote PHP 7" debugger_id="php.debugger.XDebug">
+      <interpreter home="vagrant://D:/OTGS/vagrant-local/usr/bin/php" id="93f7a26d-a9a4-4c33-9567-5bccfb3f1255" name="Remote PHP 7.2" debugger_id="php.debugger.XDebug">
         <remote_data VAGRANT_FOLDER="D:/OTGS/vagrant-local" INTERPRETER_PATH="/usr/bin/php" HELPERS_PATH="/home/vagrant/.phpstorm_helpers" INITIALIZED="false" VALID="true" />
       </interpreter>
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
-      <interpreter name="Remote PHP 7">
+      <interpreter name="Remote PHP 7.2">
         <phpinfo binary_type="PHP" php_cli="/usr/bin/php7.2" path_separator=":" remote_host="10.0.2.2" version="7.2.5-1+ubuntu14.04.1+deb.sury.org+1">
           <additional_php_ini>/etc/php/7.2/cli/conf.d/10-mysqlnd.ini, /etc/php/7.2/cli/conf.d/10-opcache.ini, /etc/php/7.2/cli/conf.d/10-pdo.ini, /etc/php/7.2/cli/conf.d/15-xml.ini, /etc/php/7.2/cli/conf.d/20-bcmath.ini, /etc/php/7.2/cli/conf.d/20-calendar.ini, /etc/php/7.2/cli/conf.d/20-ctype.ini, /etc/php/7.2/cli/conf.d/20-curl.ini, /etc/php/7.2/cli/conf.d/20-dom.ini, /etc/php/7.2/cli/conf.d/20-exif.ini, /etc/php/7.2/cli/conf.d/20-fileinfo.ini, /etc/php/7.2/cli/conf.d/20-ftp.ini, /etc/php/7.2/cli/conf.d/20-gd.ini, /etc/php/7.2/cli/conf.d/20-gettext.ini, /etc/php/7.2/cli/conf.d/20-iconv.ini, /etc/php/7.2/cli/conf.d/20-igbinary.ini, /etc/php/7.2/cli/conf.d/20-imagick.ini, /etc/php/7.2/cli/conf.d/20-imap.ini, /etc/php/7.2/cli/conf.d/20-json.ini, /etc/php/7.2/cli/conf.d/20-mailcatcher.ini, /etc/php/7.2/cli/conf.d/20-mbstring.ini, /etc/php/7.2/cli/conf.d/20-memcache.ini, /etc/php/7.2/cli/conf.d/20-msgpack.ini, /etc/php/7.2/cli/conf.d/20-mysqli.ini, /etc/php/7.2/cli/conf.d/20-pdo_mysql.ini, /etc/php/7.2/cli/conf.d/20-phar.ini, /etc/php/7.2/cli/conf.d/20-posix.ini, /etc/php/7.2/cli/conf.d/20-readline.ini, /etc/php/7.2/cli/conf.d/20-shmop.ini, /etc/php/7.2/cli/conf.d/20-simplexml.ini, /etc/php/7.2/cli/conf.d/20-soap.ini, /etc/php/7.2/cli/conf.d/20-sockets.ini, /etc/php/7.2/cli/conf.d/20-ssh2.ini, /etc/php/7.2/cli/conf.d/20-sysvmsg.ini, /etc/php/7.2/cli/conf.d/20-sysvsem.ini, /etc/php/7.2/cli/conf.d/20-sysvshm.ini, /etc/php/7.2/cli/conf.d/20-tokenizer.ini, /etc/php/7.2/cli/conf.d/20-wddx.ini, /etc/php/7.2/cli/conf.d/20-xdebug.ini, /etc/php/7.2/cli/conf.d/20-xmlreader.ini, /etc/php/7.2/cli/conf.d/20-xmlwriter.ini, /etc/php/7.2/cli/conf.d/20-xsl.ini, /etc/php/7.2/cli/conf.d/20-zip.ini, /etc/php/7.2/cli/conf.d/25-memcached.ini</additional_php_ini>
           <configuration_file>/etc/php/7.2/cli/php.ini</configuration_file>
@@ -432,7 +436,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="bb3f5d88-93b6-4da0-b88b-2bd6ee5e06a2" load_method="CUSTOM_LOADER" custom_loader_path="/srv/www/otgs2/public_html/wp-content/plugins/wp-views/vendor/autoload.php" phpunit_phar_path="" />
+      <phpunit_by_interpreter interpreter_id="93f7a26d-a9a4-4c33-9567-5bccfb3f1255" load_method="CUSTOM_LOADER" custom_loader_path="/srv/www/otgs1/public_html/wp-content/plugins/wp-views/vendor/autoload.php" phpunit_phar_path="" />
     </phpunit_settings>
   </component>
 </application>

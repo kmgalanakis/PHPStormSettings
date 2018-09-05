@@ -4,9 +4,18 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="shift ctrl alt a" />
+  </action>
   <action id="Console.TableResult.DeleteRows" />
+  <action id="ConvertIndentsToTabs">
+    <keyboard-shortcut first-keystroke="alt i" second-keystroke="t" />
+  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="EditorDeleteLine" />
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="shift ctrl alt e" />
+  </action>
 </keymap>
