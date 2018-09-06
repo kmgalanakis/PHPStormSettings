@@ -436,7 +436,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
-      <phpunit_by_interpreter interpreter_id="93f7a26d-a9a4-4c33-9567-5bccfb3f1255" load_method="CUSTOM_LOADER" custom_loader_path="/srv/www/otgs1/public_html/wp-content/plugins/wp-views/vendor/toolset/toolset-common/vendor/autoload.php" phpunit_phar_path="" />
+      <phpunit_by_interpreter interpreter_id="93f7a26d-a9a4-4c33-9567-5bccfb3f1255" load_method="CUSTOM_LOADER" custom_loader_path="/srv/www/otgs1/public_html/wp-content/plugins/wp-views/vendor/autoload.php" phpunit_phar_path="" />
     </phpunit_settings>
   </component>
 </application>
