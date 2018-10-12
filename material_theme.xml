@@ -1,6 +1,6 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.8.2" />
+    <option name="version" value="2.9.3.1" />
     <option name="selectedTheme" value="ONE_DARK" />
     <option name="accentColor" value="ab47bc" />
     <option name="compactSidebar" value="true" />
