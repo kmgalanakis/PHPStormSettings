@@ -3,8 +3,6 @@
     <option name="customScope" value="Not in TC and not in vendor" />
     <option name="defaultScopeName" value="Not in TC and not in vendor" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="wholeWordsOnly" value="true" />
-    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="Not in TC and not in vendor" />
     <mask>*.properties</mask>
