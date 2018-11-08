@@ -5,6 +5,7 @@
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
     <phpcs_settings>
+      <phpcs_by_interpreter interpreter_id="56612371-8c0c-4744-b2d0-7e3d06858654" tool_path="/srv/www/phpcs/bin/phpcs" />
       <PhpCSConfiguration standards="MySource;PEAR;PSR1;PSR2;Squiz;WordPress;WordPress-Core;WordPress-Docs;WordPress-Extra;WordPress-VIP;Zend" tool_path="D:/OTGS/phpcs/phpcs" />
     </phpcs_settings>
   </component>
