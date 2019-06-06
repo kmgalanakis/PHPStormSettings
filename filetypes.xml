@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="url-input-all" type="JSX Harmony" />
       <mapping pattern="test" type="PHP" />
+      <mapping pattern="Makefile" type="PLAIN_TEXT" />
       <mapping pattern="content-template-editor-overlay" type="PLAIN_TEXT" />
       <mapping pattern="content-template-edit-page-help" type="Twig" />
     </extensionMap>
